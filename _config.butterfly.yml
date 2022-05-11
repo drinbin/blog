@@ -63,7 +63,7 @@ katex:
   per_page: false
   hide_scrollbar: true
 
-favicon: http://cdn.toolwork.cn/blog/favicon.png
+favicon: //cdn.toolwork.cn/blog/favicon.png_gzip
 
 avatar:
   img: /img/avatar.png
@@ -73,16 +73,16 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: 'http://cdn.toolwork.cn/blog/home_pic.jpg'
+index_img: '//cdn.toolwork.cn/blog/home_pic.jpg_gzip'
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 'http://cdn.toolwork.cn/blog/article_default_img.jpg'
+default_top_img: '//cdn.toolwork.cn/blog/article_default_img.jpg_gzip'
 
 # The banner image of archive page
-archive_img: http://cdn.toolwork.cn/blog/time_top_pic.jpg
+archive_img: //cdn.toolwork.cn/blog/time_top_pic.jpg_gzip
 
 # If the banner of tag page not setting, it will show the top_img
-tag_img: http://cdn.toolwork.cn/blog/tag_top.jpg
+tag_img: //cdn.toolwork.cn/blog/tag_top.jpg_gzip
 
 # The banner image of tag page
 # format:
@@ -112,7 +112,7 @@ error_img:
 error_404:
   enable: true
   subtitle: '页面不见了'
-  background: http://cdn.toolwork.cn/blog/404.png
+  background: //cdn.toolwork.cn/blog/404.png_gzip
 
 post_meta:
   page: # Home Page
@@ -156,10 +156,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: http://cdn.toolwork.cn/blog/wechat_pay.jpg
+    - img: //cdn.toolwork.cn/blog/wechat_pay.jpg_gzip
       link:
       text: 微信
-    - img: http://cdn.toolwork.cn/blog/alipay.jpg
+    - img: //cdn.toolwork.cn/blog/alipay.jpg_gzip
       link:
       text: 支付宝
 
@@ -726,8 +726,8 @@ inject:
 CDN:
   # main
   main_css:
-  main: http://cdn.toolwork.cn/blog/config/main.min.js # /js/main.js
-  utils: http://cdn.toolwork.cn/blog/config/utils.min.js # /js/utils.js
+  main: //cdn.toolwork.cn/blog/config/main.min.js # /js/main.js
+  utils: //cdn.toolwork.cn/blog/config/utils.min.js # /js/utils.js
 
   # pjax
   pjax:
@@ -749,8 +749,8 @@ CDN:
   sharejs_css:
 
   # search
-  local_search: http://cdn.toolwork.cn/blog/config/localsearch.min.js
-  algolia_js: http://cdn.toolwork.cn/blog/config/algolia.min.js
+  local_search: //cdn.toolwork.cn/blog/config/localsearch.min.js
+  algolia_js:
   algolia_search_v4:
   instantsearch_v4:
 
@@ -793,7 +793,7 @@ CDN:
   fontawesome:
 
   # Conversion between Traditional and Simplified Chinese
-  translate: http://cdn.toolwork.cn/blog/config/tw_cn.min.js
+  # translate: http://cdn.toolwork.cn/blog/config/tw_cn.min.js
 
   # flickr-justified-gallery
   flickr_justified_gallery_js:

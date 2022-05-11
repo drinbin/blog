@@ -8,7 +8,7 @@ categories: JavaScript
 keywords: '复制,版权,小尾巴'
 description: 复制自带版权小尾巴
 top_img:
-cover: http://cdn.toolwork.cn/blog/posts/2022/04/11/topimg.jpg
+cover: //cdn.toolwork.cn/blog/posts/2022/04/11/topimg.jpg_gzip
 ---
 # 前言
 每天网上的博客各个领域都会涌现新文章，有时候看到感兴趣的知识就想把某段文字 ~~copy下来~~ 摘录下来，等有时间后慢慢品味

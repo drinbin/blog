@@ -160,9 +160,9 @@ markdown_it_plus:
         strict: false
 
 feed:
-  type: atom
+  type: rss2
   path: atom.xml
-  limit: 0
+  limit: 20
 
 nofollow:
   enable: true

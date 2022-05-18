@@ -8,7 +8,7 @@
     "serve": "hexo clean && hexo g && hexo s"
   },
   "hexo": {
-    "version": "6.0.0"
+    "version": "6.1.0"
   },
   "dependencies": {
     "gulp-html-minifier-terser": "^6.0.1",
@@ -30,7 +30,7 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-butterfly": "^4.2.0",
+    "hexo-theme-butterfly": "^4.2.1",
     "hexo-wordcount": "^6.0.1"
   },
   "devDependencies": {

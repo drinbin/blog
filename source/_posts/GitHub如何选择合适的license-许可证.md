@@ -10,7 +10,7 @@ categories: 开发、项目规范
 keywords: 'Github,license,许可证'
 description: 如何选择合适的license
 top_img:
-cover: //cdn.toolwork.cn/blog/posts/2022/03/24/top_img.jpg_gzip
+cover: //cdn.drinbin.com/blog/posts/2022/03/24/top_img.jpg
 ---
 > license译为许可证，也可作为开源协议，它可以将自己创作的东西，授权给他人使用，并约定了使用者可以有的权利和必须遵从的义务。现在很多优秀的开源项目都有设置license，不同的license所约束的条件也不同。因此开源不等于免费，开源也不等于没有约束。
 

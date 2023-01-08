@@ -11,7 +11,7 @@ categories:
 keywords: 'Vue,element-ui,二次封装'
 description: 二次封装 element-ui 组件
 top_img:
-cover: //cdn.toolwork.cn/blog/posts/2022/04/25/top_img.png_gzip
+cover: //cdn.drinbin.com/blog/posts/2022/04/25/top_img.png
 ---
 > element-ui 因其组件丰富、可拓展性强、文档详细等优点成为 Vue 最火的第三方 UI 框架。element-ui 其本身就针对后台系统设计了很多实用的组件，基本上满足了平时的开发需求。
 

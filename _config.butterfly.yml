@@ -63,7 +63,7 @@ katex:
   per_page: false
   hide_scrollbar: true
 
-favicon: //cdn.toolwork.cn/blog/favicon.png_gzip
+favicon: //cdn.drinbin.com/blog/favicon.png
 
 avatar:
   img: /img/avatar.png
@@ -73,16 +73,16 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: '//cdn.toolwork.cn/blog/home_pic.jpg_gzip'
+index_img: '//cdn.drinbin.com/blog/home_pic.jpg'
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: '//cdn.toolwork.cn/blog/article_default_img.jpg_gzip'
+default_top_img: '//cdn.drinbin.com/blog/article_default_img.jpg'
 
 # The banner image of archive page
-archive_img: //cdn.toolwork.cn/blog/time_top_pic.jpg_gzip
+archive_img: //cdn.drinbin.com/blog/time_top_pic.jpg
 
 # If the banner of tag page not setting, it will show the top_img
-tag_img: //cdn.toolwork.cn/blog/tag_top.jpg_gzip
+tag_img: //cdn.drinbin.com/blog/tag_top.jpg
 
 # The banner image of tag page
 # format:
@@ -112,7 +112,7 @@ error_img:
 error_404:
   enable: true
   subtitle: '页面不见了'
-  background: //cdn.toolwork.cn/blog/404.png_gzip
+  background: //cdn.drinbin.com/blog/404.png
 
 post_meta:
   page: # Home Page
@@ -156,10 +156,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: //cdn.toolwork.cn/blog/wechat_pay.jpg_gzip
+    - img: //cdn.drinbin.com/blog/wechat_pay.jpg
       link:
       text: 微信
-    - img: //cdn.toolwork.cn/blog/alipay.jpg_gzip
+    - img: //cdn.drinbin.com/blog/alipay.jpg
       link:
       text: 支付宝
 
@@ -719,7 +719,7 @@ css_prefix: true
 inject:
   head:
     - '<style type="text/css">.card-announcement .social-button{margin:.6rem 0 0 0;text-align:center}.card-announcement .social-button a{display:block;background-color:var(--btn-bg);color:var(--btn-color);text-align:center;line-height:2.4;margin:4px 0}.card-announcement .social-button a:hover{background-color:var(--btn-hover-color)}</style>'
-    - <link rel="stylesheet" href="//cdn.toolwork.cn/blog/nav_icon.css">
+    - <link rel="stylesheet" href="//cdn.drinbin.com/blog/nav_icon.css">
   bottom:
 
 CDN:
@@ -733,14 +733,14 @@ CDN:
   third_party_provider: jsdelivr
   option:
     main_css:
-    main: //cdn.toolwork.cn/blog/config/main.min.js
-    utils: //cdn.toolwork.cn/blog/config/utils.min.js
+    main: //cdn.drinbin.com/blog/config/main.min.js
+    utils: //cdn.drinbin.com/blog/config/utils.min.js
     translate:
-    local_search: //cdn.toolwork.cn/blog/config/localsearch.min.js
+    local_search: //cdn.drinbin.com/blog/config/localsearch.min.js
     algolia_js:
     algolia_search_v4:
     instantsearch_v4:
-    pjax: //cdn.toolwork.cn/npm/blog/pjax.min.js
+    pjax: //cdn.drinbin.com/npm/blog/pjax.min.js
     gitalk:
     gitalk_css:
     blueimp_md5:
@@ -760,20 +760,20 @@ CDN:
     canvas_ribbon:
     canvas_fluttering_ribbon:
     canvas_nest:
-    lazyload: //cdn.toolwork.cn/npm/blog/lazyload.iife.min.js
-    instantpage: //cdn.toolwork.cn/npm/blog/instantpage.min.js
-    typed: //cdn.toolwork.cn/npm/blog/typed.min.js
+    lazyload: //cdn.drinbin.com/npm/blog/lazyload.iife.min.js
+    instantpage: //cdn.drinbin.com/npm/blog/instantpage.min.js
+    typed: //cdn.drinbin.com/npm/blog/typed.min.js
     pangu:
-    fancybox_css_v4: //cdn.toolwork.cn/npm/blog/fancybox.css
-    fancybox_v4: //cdn.toolwork.cn/npm/blog/fancybox.umd.js
+    fancybox_css_v4: //cdn.drinbin.com/npm/blog/fancybox.css
+    fancybox_v4: //cdn.drinbin.com/npm/blog/fancybox.umd.js
     medium_zoom:
     snackbar_css:
     snackbar:
-    activate_power_mode: //cdn.toolwork.cn/npm/blog/activate-power-mode.min.js
+    activate_power_mode: //cdn.drinbin.com/npm/blog/activate-power-mode.min.js
     fireworks:
     click_heart:
     ClickShowText:
-    fontawesomeV6: //cdn.toolwork.cn/npm/blog/all.min.css
+    fontawesomeV6: //cdn.drinbin.com/npm/blog/all.min.css
     flickr_justified_gallery_js:
     flickr_justified_gallery_css:
     aplayer_css:

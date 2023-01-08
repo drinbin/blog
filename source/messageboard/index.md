@@ -3,7 +3,7 @@ title: 留言板
 date: 2022-04-29 12:00:00
 comments: false
 description: 留言板
-top_img: //cdn.toolwork.cn/blog/messageboard_top.jpg_gzip
+top_img: //cdn.drinbin.com/blog/messageboard_top.jpg
 ---
 <p style="font-size:1.72em;font-weight:bold;text-align: center">
 Won't you leave anything for your visit ?<br> 

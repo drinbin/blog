@@ -8,7 +8,7 @@
     "serve": "hexo clean && hexo g && hexo s"
   },
   "hexo": {
-    "version": "6.1.0"
+    "version": "6.3.0"
   },
   "dependencies": {
     "gulp-html-minifier-terser": "^6.0.1",

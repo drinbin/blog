@@ -122,7 +122,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:stjljb/blog.git
+  repo: git@github.com:drinbin/blog.git
   branch: master
   # other deployer
 

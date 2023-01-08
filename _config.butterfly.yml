@@ -338,13 +338,11 @@ ad:
 # Verification (站長驗證)
 # --------------------------------------
 
-# site_verification:
-#   - name: google-site-verification
-#     content: NdIUXAOVyGnnBhcrip0ksCawbdAzT0hlBZDE9u4jx6k
-#   - name: msvalidate.01
-#     content: 567E47D75E8DCF1282B9623AD914701E
-#   - name: baidu-site-verification
-#     content: code-pE5rnuxcfD
+site_verification:
+  - name: baidu-site-verification
+    content: code-YsJxrSbyYd
+  - name: google-site-verification
+    content: V1GkJI4terx9Gg4hZZXiQhEigRAhQ3zOZMQMdq9kZCI
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------

@@ -4,7 +4,7 @@ menu:
   分类||fas fa-archive:
     文章类型: /categories/ || fas fa-folder-open
     标签: /tags/ || fas fa-tags
-  留言板: /messageboard/ || fas fa-comment-dots
+  # 留言板: /messageboard/ || fas fa-comment-dots
 
 highlight_theme: mac light # darker / pale night / light / ocean / mac / mac light /false
 highlight_copy: true # copy button
@@ -156,7 +156,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
     - img: //cdn.drinbin.com/blog/wechat_pay.jpg
       link:

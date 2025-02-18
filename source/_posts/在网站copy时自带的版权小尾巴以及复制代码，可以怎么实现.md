@@ -56,9 +56,9 @@ copyEl.oncopy = function (e) {
 </script>
 ```
 `演示`
-![自带小尾巴](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9e24ee8fb5074664aad1d4a76f6cd2da~tplv-k3u1fbpfcp-watermark.image?)
+![自带小尾巴](https://image-static.segmentfault.com/762/768/7627685-1658243f0e72f6f7)
 `浏览器兼容性`
-![浏览器兼容性](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/14380200f22945c59fe25ff2f7ecb263~tplv-k3u1fbpfcp-watermark.image?)
+![浏览器兼容性](https://image-static.segmentfault.com/318/009/3180090122-2e14a0958febcc20)
 当复制示例一后可以发现粘贴是正常的；复制示例二则会在末尾携带版权信息
 ## 复制代码功能
 我们直接复制代码，会发现当字数超过一定值时也是会携带版权信息。但是点击“复制代码”的时候可以一键复制区域内的代码，这可以怎么实现呢？
@@ -100,10 +100,10 @@ function mathMultiply(arg1, arg2) {
 </script>
 ```
 `演示`
-![一键复制代码](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b89e8360541a494f8961c63fbc8bd500~tplv-k3u1fbpfcp-watermark.image?)
+![一键复制代码](https://image-static.segmentfault.com/351/414/3514141251-79eae5caf942b8b0)
 `浏览器兼容性`
 
-![execCommand.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d511c4f77e984a30be2fa8679445a0ab~tplv-k3u1fbpfcp-watermark.image?)
+![execCommand.jpg](https://image-static.segmentfault.com/424/088/4240883917-3e42401d6f0b30c3)
 *document.execCommand()因为安全问题已经废弃，不适合长期使用*
 ## 第三方工具
 除了以上实现方式，也可以使用第三方库封装好的函数来实现

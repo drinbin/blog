@@ -68,23 +68,23 @@ katex:
 favicon: //cdn.drinbin.com/blog/favicon.png
 
 avatar:
-  img: /img/avatar.png
+  img: /img/avatar.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: '//cdn.drinbin.com/blog/home_pic.jpg'
+index_img: '/img/home_pic.jpg'
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: '//cdn.drinbin.com/blog/article_default_img.jpg'
+default_top_img: '/img/article_default_img.jpg'
 
 # The banner image of archive page
-archive_img: //cdn.drinbin.com/blog/time_top_pic.jpg
+archive_img: '/img//time_top_pic.jpg'
 
 # If the banner of tag page not setting, it will show the top_img
-tag_img: //cdn.drinbin.com/blog/tag_top.jpg
+tag_img: /img/tag_top.jpg
 
 # The banner image of tag page
 # format:
@@ -525,7 +525,7 @@ aside:
       link:
   card_announcement:
     enable: true
-    content: 博客试营业, 还在装修中···
+    content: 博客营业中···
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

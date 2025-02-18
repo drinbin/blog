@@ -21,7 +21,7 @@ cover: //cdn.drinbin.com/blog/posts/2022/03/24/top_img.jpg
 # 快速选择流行的license
 
 在创建项目的时候，我们可以选择一个license，可以看到有很多流行的开源协议可以选择。
-![GitHub_license.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6f3efafafe944df28347441ce8e14111~tplv-k3u1fbpfcp-watermark.image?)
+![GitHub_license.jpg](https://image-static.segmentfault.com/368/539/3685393680-623b5282dd12d)
 
 下文将以GitHub这份协议做简单的介绍，给项目快速选择一个合适的协议。
 # 各协议介绍
@@ -42,7 +42,7 @@ cover: //cdn.drinbin.com/blog/posts/2022/03/24/top_img.jpg
 
 
 关于BSL和GPL的区别介绍 >> https://www.boost.org/users/license.html
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/de9093bf7d8b4b2f910cbef9000eab19~tplv-k3u1fbpfcp-watermark.image?)
+![image.png](https://image-static.segmentfault.com/388/478/3884789115-623b52a5dd348)
 
 # 不选择协议
 并不是一定要在项目中添加协议的。但如上文所讨论过的优点，如果你想把代码分享出来，又想约束一些行为，最好还是选择一个适合的开源协议。不选择协议可以让发布者保留作品的解释权，不允许他人分发，复制或二次开发。但是部分网站会有特有的协议，例如当你将代码发布到GitHub上，会默认公开的项目可以自由的查看和fork。

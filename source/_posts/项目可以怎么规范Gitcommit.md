@@ -61,10 +61,11 @@ scope用于说明 commit 影响的范围，比如数据层、控制层、视图�
 新增 hook 勾子命令，项目中使用 commit-msg 勾子来校验 commit message 是否符合规范： `npx husky add .husky/commit-msg "npx --no-install commitlint --edit $1"`<br/>
 运行上面命令后，将自动在 .husky  文件夹下面新增对应的勾子文件，如下
 
+![](https://image-static.segmentfault.com/309/379/3093799885-623b3f5dd2b43)
 
 如果运行完新增勾子函数如果出现如下消息
 
-
+![](https://image-static.segmentfault.com/143/709/1437096637-623b3f76040ed)
 
 可以先执行 `npx husky add .husky/commit-msg`，然后手动去commit-msg文件里添加`npx --no-install commitlint --edit $1`
 

@@ -116,12 +116,12 @@ export default {
 ```
 `演示：`
 
-![inputNumber.gif](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfa7f8fb5e574f9292e9bbb98930c64c~tplv-k3u1fbpfcp-watermark.image?)
+![inputNumber.gif](https://image-static.segmentfault.com/292/296/2922969189-62665f0112308)
 
 ## OptionPlus
 select 组件用在有较多选项时，但是有些选项的长度难免比较长，就会把选项框整个给撑大，例如：
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a7414fa85ba433aa120fd3a0bad4fa9~tplv-k3u1fbpfcp-watermark.image?)
+![image.png](https://image-static.segmentfault.com/852/219/852219961-62665f0bdbcd4)
 
 这种还是比较短的时候了，有时因为公司名称较长，或者其他业务要展示的字段过长时就不太友好。
 
@@ -205,7 +205,7 @@ export default {
 ```
 `效果：`
 
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/003f8235414d427198e5b01da051cc81~tplv-k3u1fbpfcp-watermark.image?)
+![image.png](https://image-static.segmentfault.com/390/021/3900217757-62665f1c0f832)
 
 ## FormPlus
 后台系统肯定会有查找功能，搜索条件大部分都是这三种，输入框、下拉框和日期选择。所以可以整合这三个常用的元素，将它们封装成一个易于使用的组件
@@ -425,7 +425,7 @@ export default {
 ```
 `演示：`
 
-![formPlus.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c86a915eaebc4923b661966e9d6481a9~tplv-k3u1fbpfcp-watermark.image?)
+![formPlus.gif](https://image-static.segmentfault.com/196/563/1965633480-62665f31cab42)
 
 接口获取到的数据可以用`this.formList[index] = res.data;`来将数据塞进 el-select 的选项数组中
 
@@ -509,7 +509,7 @@ export default {
 
 使用 el-scrollbar 组件来实现更优雅的滚动效果，底部固定并增加一些阴影增加美观
 
-![DrawerPlus.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5342704a71f4515a0c4c2322950c0cd~tplv-k3u1fbpfcp-watermark.image?)
+![DrawerPlus.png](https://image-static.segmentfault.com/204/696/2046968746-62665f3e1f59b)
 
 ## CopyIcon
 在日常开发中，有时可能想实现一键复制，我们可以选择手写复制方法，也可以选择引入 clipboard.js 库帮助快速实现功能
@@ -600,7 +600,7 @@ export default {
 ```
 `演示：`
 
-![CopyIcon.gif](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/643b241ba30d4a2ebce11b381de170e5~tplv-k3u1fbpfcp-watermark.image?)
+![CopyIcon.gif](https://image-static.segmentfault.com/289/056/2890561143-62665ef1e221c)
 
 二次封装虽说方便了后续的开发，但是当封装的组件不能满足需求时，可以考虑迭代或者用回 element-ui 原生的组件
 
